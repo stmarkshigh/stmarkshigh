@@ -13,6 +13,12 @@
     position: relative;
 }
 
+h1{
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: 40px;
+}
+
 nav{
     display: flex;
     padding: 1% 4%;
