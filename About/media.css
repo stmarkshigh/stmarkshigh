@@ -11,6 +11,12 @@
     box-sizing: border-box;
 }
 
+h1{
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: 40px;
+}
+
 .About-col{
     display: flex;
     align-items: center;
