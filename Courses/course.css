@@ -2,6 +2,7 @@
 .body{
     background-color: #fff;
     display: flex;
+    box-sizing: border-box;
 }
 .Courses{
     width:80%;
@@ -45,6 +46,7 @@ p{
 
 .course-col-more ol{
     padding: 20px;
+    font-size: small;
 }
 
 
