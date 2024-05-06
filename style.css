@@ -777,6 +777,7 @@ h1{
 
 .sports-events{
     float: left;
+    margin-bottom: 50px;
 }
 
 .sports-events table{
@@ -802,6 +803,7 @@ h1{
 .miscellaneous-events table{
     margin-left: 10px;
     margin-top: 10px;
+    margin-right: 20px;
 }
 
 .miscellaneous-events h2{
